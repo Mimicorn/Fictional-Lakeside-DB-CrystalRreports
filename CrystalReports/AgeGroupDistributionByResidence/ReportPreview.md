@@ -13,8 +13,8 @@ Patients are categorized into four age groups:
 </ul>
 The following is the preview of the partial report.
 <br>
-![Age Group By Residence Report Header](images\AgeGroupByResidence-1.PNG)
+![Age Group By Residence Report Header](images/AgeGroupByResidence-1.png)
 <br>
-![Age Group By Residence Report Body a](images\AgeGroupByResidence-2.PNG)
+![Age Group By Residence Report Body a](images/AgeGroupByResidence-2.png)
 <br>
-![Age Group By Residence Report Body b](images\AgeGroupByResidence-3.PNG)
+![Age Group By Residence Report Body b](images/AgeGroupByResidence-3.png)
