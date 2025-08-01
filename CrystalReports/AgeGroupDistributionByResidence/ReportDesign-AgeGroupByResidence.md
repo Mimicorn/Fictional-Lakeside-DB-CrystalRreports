@@ -5,7 +5,7 @@
 ![Field Explorer](images/FieldExplorer-AgeGroup.png)
 ## Add a Tabular Field in the Report Detail Section for Patient Full Name
 Right click Formula Fields inside the Formula Explorer, choose New..., and type in "Name" as the field name to create a formula field. In the Formula Workshop, add code to combine both the first name and the last name fields as the New "Name" tabular Field. <br>
-![Formula Field Name Edit](images/FormulaField-Name.png)<br>
+![Formula Field Name Edit](images/FormulaField-Name.png)
 Right click the Name field and choose the option "Insert to Report" to add the Name field to the report.
 ## Create a Parameter Inside the Parameter Fields to Filter Residence Location  
 Right click Parameter Fields inside the Formula Explorer, choose New... to create a parameter called ParaTown to filter the report. <br>
