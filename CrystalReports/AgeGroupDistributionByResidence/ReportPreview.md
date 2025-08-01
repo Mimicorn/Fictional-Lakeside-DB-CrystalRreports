@@ -12,7 +12,7 @@ Patients are categorized into four age groups:
     <li>Senior Adult (65 years and older)</li>
 </ul>
 The following is the preview of the partial report.
-<br>
+<br><br>
 ![Age Group By Residence Report Header](images/AgeGroupByResidence-1.png)
 <br>
 ![Age Group By Residence Report Body a](images/AgeGroupByResidence-2.png)
