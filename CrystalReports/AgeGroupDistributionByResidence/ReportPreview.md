@@ -1,4 +1,4 @@
-## Patient Count by Age Group and Residence Report Preview
+# Patient Count by Age Group and Residence Report Preview
 <br>
 This report provides a comprehensive overview of patient demographics, segmented by age group first and then by their residence location. It features:
 	A bar chart illustrating patient counts by age group across different residence locations.
