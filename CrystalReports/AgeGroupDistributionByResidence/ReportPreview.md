@@ -17,4 +17,4 @@ The following is the preview of the partial report.
 <br>
 ![Age Group By Residence Report Body a](images/AgeGroupByResidence-2.png)
 <br>
-![Age Group By Residence Report Body b](images/AgeGroupByResidence-3.png)
+![Age Group By Residence Report Body and Footer](images/AgeGroupByResidence-3.png)
