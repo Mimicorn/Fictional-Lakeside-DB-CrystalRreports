@@ -1,4 +1,7 @@
 # Report Design and Field Script for Patient Count by Age Group and Residence Report
+## Data Source
+### AgeGroupView
+![Data Source](images/DataExpert.png)
 ## Report Body Design
 ![Report Body Design Panel](images/DesignPanel-AgeGroup.png)
 ## Field Explorer 
