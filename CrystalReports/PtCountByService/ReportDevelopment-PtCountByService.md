@@ -44,7 +44,7 @@ Check on Suppress box in Format Line Editor for the line in Group Footer section
 <br><br>![Line Group Footer Form Editor Suppress](images/LineGroupFooter_FormatEditor_Suppress.png)
 ## Next Group Formula Field
 Create a formula field NextGroup to get the value of the next printing group in the report. It is referrenced in the above suppress the line in Group Footer formula.   
-<br><br>![Next Group Formula Field](images/FormulaField_NextGroup.png)
+<br>![Next Group Formula Field](images/FormulaField_NextGroup.png)
 ## Group Expert
 This report is grouped by the column Serv_name (patient service name) in the view as shown in Group Expert.
 <br><br>![Group Expert](images/GroupExpert.png)
