@@ -2,7 +2,6 @@
 ## Data Source
 ### AgeGroupView
 ![Report Data Source](images/DataExpert.png)
-![Report Data Source](Fictional-Lakeside-DB-CrystalReports/CrystalReports/AgeGroupDistributionByResidence/images/DatabaseExpert.png)
 ## Report Body Design
 ![Report Body Design Panel](images/DesignPanel-AgeGroup.png)
 ## Field Explorer 
