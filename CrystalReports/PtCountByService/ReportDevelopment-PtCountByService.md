@@ -30,13 +30,13 @@ Create a formula field DdateFromSelected to get the value of discharge start dat
 ![Discharge Start Date](images/FormulaField_DischargeDateFrom.png)
 ## Discharge Date End Formula Field
 Create a formula field DdateToSelected to get the value of discharge end date selected by user and insert it to the report page header amd report footer.
-![Discharge End Date](image/FormulaField_DischargeDateTo.png)
+![Discharge End Date](images/FormulaField_DischargeDateTo.png)
 ## Suppress Duplicate Field Value
 Under Format menu, choose Format Field to hide the duplicate field values for the same patient encounter in Format Editor by checking on Suppress If Duplicated option in Common tab. 
 ![Suppress Duplicate Field Value](images/FieldFormatEditor.png)
 ## Suppress Line in Detail
 Choose the line in Detail section, right click on Format Line. Check on Suppress box In Format Line Editor and click on the square icon with beside it to open the Formula Workshop for the current formula.  
-![Line Detail Form Editor](images/LineDetails_FormEditor.png)
+![Line Detail Form Editor](images/LineDetails_FormatEditor.png)
 Write code to hide the line in Detail section in between records for the same encounter.
-![Line Detail Form Editor Suppress](images/LineDetails_FormEditor_Suppress.png)
+![Line Detail Form Editor Suppress](images/LineDetails_FormatEditor_Suppress.png)
 
