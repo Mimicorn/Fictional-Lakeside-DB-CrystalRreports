@@ -19,3 +19,5 @@ Patients are categorized into four age groups:
 ![Report Body](images/AgeGroupByResidence-2.png) <br>
 ### Report Footer
 ![Report Body and Footer](images/AgeGroupByResidence-3.png)
+### Parameter Selection Dialog
+![Parameter Selection](images/ParameterSelectionDialog.png)
