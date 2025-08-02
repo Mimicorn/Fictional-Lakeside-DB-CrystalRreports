@@ -42,6 +42,9 @@ Write code to hide the line in Detail section in between records for the same en
 ## Suppress Line in Group Footer
 Check on Suppress box in Format Line Editor for the line in Group Footer section, click on the square icon beside it to open the Formula Workshop, and write code to hide the line in Group Footer section if the current group is not the last group in the report. 
 <br><br>![Line Group Footer Form Editor Suppress](images/LineGroupFooter_FormatEditor_Suppress.png)
+## Next Group Formula Field
+Create a formula field NextGroup to get the value of the next printing group in the report. It is referrenced in the above suppress the line in Group Footer formula.   
+<br><br>![Next Group Formula Field](images/FormulaField_NextGroup.png)
 ## Group Expert
 This report is grouped by the column Serv_name (patient service name) in the view as shown in Group Expert.
 <br><br>![Group Expert](images/GroupExpert.png)
@@ -49,7 +52,8 @@ This report is grouped by the column Serv_name (patient service name) in the vie
 <br>Check the box "Repeat Group Header On Each Page" in Group Expert Options to display group header on each page.
 <br><br>![Group Expert Options](images/GroupExpertOptions.png)
 ## Group Summary
-
+Under the menu Insert select Summary to insert the count of encounters for each group as shown below to the Group Footer section.
+<br><br>![Group Summary](images/GroupSummary.png)
 ## Report Summary
-
+Under the menu Insert select Summary to insert the count of encounters for all groups as shown below to the Report Footer section.
 <br><br>![Report Summary](images/ReportSummaryInsert.png)
