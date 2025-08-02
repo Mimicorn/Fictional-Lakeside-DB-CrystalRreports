@@ -35,8 +35,8 @@ Create a formula field DdateToSelected to get the value of discharge end date se
 Under Format menu, choose Format Field to hide the duplicate field values for the same patient encounter in Format Editor by checking on Suppress If Duplicated option in Common tab. 
 ![Suppress Duplicate Field Value](images/FieldFormatEditor.png)
 ## Suppress Line in Detail
-Choose the line in Detail section, right click on Format Line. Check on Suppress box In Format Line Editor and click on the square icon with beside it to open the Formula Workshop for the current formula.  
-![Line Detail Form Editor](images/LineDetails_FormatEditor.png)
+Choose the line in Detail section, right click on Format Line. Check on Suppress box In Format Line Editor and click on the square icon with beside it to open the Formula Workshop for the current formula.<br>  
+![Line Detail Form Editor](images/LineDetails_FormatEditor.png)<br>
 Write code to hide the line in Detail section in between records for the same encounter.
 ![Line Detail Form Editor Suppress](images/LineDetails_FormatEditor_Suppress.png)
 
