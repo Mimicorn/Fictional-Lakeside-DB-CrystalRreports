@@ -35,8 +35,21 @@ Create a formula field DdateToSelected to get the value of discharge end date se
 Under Format menu, choose Format Field to hide the duplicate field values for the same patient encounter in Format Editor by checking on Suppress If Duplicated option in Common tab. 
 <br><br>![Suppress Duplicate Field Value](images/FieldFormatEditor.png)
 ## Suppress Line in Detail
-Choose the line in Detail section, right click on Format Line. Check on Suppress box In Format Line Editor and click on the square icon with beside it to open the Formula Workshop for the current formula.<br>  
+Choose the line in Detail section, right click on Format Line. Check on Suppress box In Format Line Editor and click on the square icon beside it to open the Formula Workshop for the current formula.
 <br><br>![Line Detail Form Editor](images/LineDetails_FormatEditor.png)<br>
 Write code to hide the line in Detail section in between records for the same encounter.
 <br><br>![Line Detail Form Editor Suppress](images/LineDetails_FormatEditor_Suppress.png)
+## Suppress Line in Group Footer
+Check on Suppress box in Format Line Editor for the line in Group Footer section, click on the square icon beside it to open the Formula Workshop, and write code to hide the line in Group Footer section if the current group is not the last group in the report. 
+<br><br>![Line Group Footer Form Editor Suppress](images/LineGroupFooter_FormatEditor_Suppress.png)
+## Group Expert
+This report is grouped by the column Serv_name (patient service name) in the view as shown in Group Expert.
+<br><br>![Group Expert](images/GroupExpert.png)
+![Group Expert Common](images/GroupExpertCommon.png)
+<br>Check the box "Repeat Group Header On Each Page" in Group Expert Options to display group header on each page.
+<br><br>![Group Expert Options](images/GroupExpertOptions.png)
+## Group Summary
 
+## Report Summary
+
+<br><br>![Report Summary](images/ReportSummaryInsert.png)
