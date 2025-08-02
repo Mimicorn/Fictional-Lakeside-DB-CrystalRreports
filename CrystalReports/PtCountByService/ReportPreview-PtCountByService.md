@@ -9,3 +9,5 @@ This report provides a clear overview of patient discharge data, featuring a bar
 ![Report Body Preview 2](images/Preview_ReportBody_2.png)
 ### Report Footer
 ![Report Footer Preview](images/Preview_ReportFooter.png)
+### Parameter Dialog Box 
+![Parameter Dialog Box](images/ParameterDialog.png)
