@@ -4,7 +4,7 @@ This report organizes patient length of stay (LOS) by filterable services, inclu
 ## Preview Report Header
 ![Report Header](images/Preview_Header.png)
 ## Partial Preview Report Body 
-![Report Body 1](images/Preview_Body.png)
+![Report Body 1](images/Preview_Body.png)<br>
 ![Report Body 2](images/Preview_Body_2.png)
 ## Preview Report Footer
 ![Report_Footer](images/Preview_Footer.png)
