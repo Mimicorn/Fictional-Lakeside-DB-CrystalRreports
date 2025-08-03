@@ -15,3 +15,14 @@ Create a patient service parameter ParaService for user to filter specific servi
 ## Record Selection Formula
 Write script for the Record Selection Formula inside Selection Formulas in Formula Workshop with the parameter field, ParaService, to display only the records based on the patient services that user selects. 
 <br><br>![Record Selection Formula](images/RecordSelection.png)
+## Group Expert
+This report is grouped by the column Serv_name (patient service name) in the EncounterView view as shown in Group Expert.
+<br><br>![Group Expert](images/GroupExpert.png)
+## Group Summary
+Under the menu Insert select Summary to insert the average and the sum of LOS for each patient service as shown below to the Group Footer section.
+<br><br>![Group Summary](images/GroupSummary_Avg.png)
+<br><br>![Group Summary](images/GroupSummary_Sum.png)
+## Report Summary
+Under the menu Insert select Summary to insert the average and the sum of LOS for all patient services as shown below to the Report Footer section.
+<br><br>![Report Summary](images/ReportSummary_Avg.png)
+<br><br>![Report Summary](images/ReportSummary_Sum.png)
