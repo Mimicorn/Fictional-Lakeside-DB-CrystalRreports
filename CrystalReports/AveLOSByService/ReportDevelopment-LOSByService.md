@@ -11,7 +11,7 @@ Create a formula field Name combining the first name and the last name of the pa
 <br><br>![Formula Field Name](images/FormulaField_Name.png)
 ## Patient Service Parameter
 Create a patient service parameter ParaService for user to filter specific services 
-<br><br>![Parameter Patient Service](images/Parameter_Service.png)
+<br><br>![Parameter Patient Service](images/Parameter_ParaService.png)
 ## Record Selection Formula
 Write script for the Record Selection Formula inside Selection Formulas in Formula Workshop with the parameter field, ParaService, to display only the records based on the patient services that user selects. 
 <br><br>![Record Selection Formula](images/RecordSelection.png)
