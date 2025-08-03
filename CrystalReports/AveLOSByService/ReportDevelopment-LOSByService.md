@@ -23,6 +23,19 @@ Under the menu Insert select Summary to insert the average and the sum of LOS fo
 <br><br>![Group Summary](images/GroupSummary_Avg.png)
 <br><br>![Group Summary](images/GroupSummary_Sum.png)
 ## Report Summary
-Under the menu Insert select Summary to insert the average and the sum of LOS for all patient services as shown below to the Report Footer section.
+Under the menu Insert select Summary to insert the average and the sum of LOS for all selected patient services as shown below to the Report Footer section.
 <br><br>![Report Summary](images/ReportSummary_Avg.png)
 <br><br>![Report Summary](images/ReportSummary_Sum.png)
+### Retrieve the Maximum Average Service LOS Days and the Corresponding Patient Service
+#### Step 1：Create InitialMaxAvg Formula Field and write code inside the Formula Workshop as follows
+![Formula Field InitialMaxAvg](images/FormulaField_InitialMaxAvg.png)
+#### Step 2: Insert InitialMaxAvg to Report Header and hide it by check on Suppress in Common tab in Format Field Editor
+#### Step 3: Create UpdateMaxAvg Formula Field and write code inside the Formula Workshop as follows
+![Formula Field UpdateMaxAvg](images/FormulaField_UpdateMaxAvg.png)
+#### Step 4: Insert UpdateMaxAvg to Group Footer and hide it by check on Suppress in Common tab in Format Field Editor
+#### Step 5: Create both DisplayMaxAvg and DisplayMaxAvgService Formula Fields and write code for them inside the Formula Workshop as follows
+![Formula Field DisplayMaxAvg](images/FormulaField_DisplayMaxAvg.png)
+<br><br>
+![Formula Field DisplayMaxAvgService](images/FormulaField_DisplayMaxAvgService.png)
+#### Step 6: Insert both DisplayMaxAvg and DisplayMaxAvgService to the proper place inside Report Footer
+
