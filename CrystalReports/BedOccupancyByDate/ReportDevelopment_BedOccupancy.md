@@ -26,3 +26,7 @@ This report is grouped by the column OperationDate in the OccupancyDetailView vi
 ![Group Expert Common](images/GroupExpert_Common.png)
 <br>Check the box "Repeat Group Header On Each Page" in Group Expert Options to display group header on each page.
 <br><br>![Group Expert Options](images/GroupExpert_Options.png)
+## Group Summary
+
+
+## Report Summary
