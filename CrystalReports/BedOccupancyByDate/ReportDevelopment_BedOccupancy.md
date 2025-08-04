@@ -27,15 +27,25 @@ This report is grouped by the column OperationDate in the OccupancyDetailView vi
 <br>Check the box "Repeat Group Header On Each Page" in Group Expert Options to display group header on each page.
 <br><br>![Group Expert Options](images/GroupExpert_Options.png)
 ## Group Summary
-### Design Overview
-![Group Summary Design](images/GroupSummary_Design.png)
-Under the menu Insert, select Summary to insert the total occupied beds per date as follows
-<br><br>
+### Group Footer Design Overview
+![Group Summary Design](images/GroupSummary_Design.png)<br><br>
+### Under the menu Insert, select Summary to insert the total occupied beds per date to the Group Footer as follows
 ![Group Summary Bed Count](images/GroupSummary_Count.png)<br><br>
-Select Summary to insert the total bed fee per date as follows
-<br><br>
+### Select Summary to insert the total bed fee per date to the Group Footer as follows
 ![Group Summary Bed Fee](images/GroupSummary_Sum.png)<br><br>
-Create a Formula Field OccupancyRateByDate to calculate the bed occupancy rate per date and insert it to the Group Footer
-<br><br>
+### Create a Formula Field OccupancyRateByDate, write code to calculate the bed occupancy rate per date, and insert it to the Group Footer
 ![Formula Field OccupancyRateByDate](images/FormulaField_OccupancyRateByDate.png)
 ## Report Summary
+### Report Footer Design Overview
+![Report Summary Design](images/ReportSummary_Design.png)<br><br>
+### Create a Formula Field DateRange, write script to visualize the date range user selected and insert it to the Report Footer
+<br><br>
+![Formula Field DateRange](images/FormulaField_DateRange.png)<br><br>
+### Under the menu Insert, Select Summary to insert the sum of bed fee for the date period user selected to the Report Footer as follows
+<br><br>
+![Group Summary Bed Fee](images/ReportSummary_Sum.png)<br><br>
+### Create a RunningTotal Field RTotalOccupiedBedCount to calculate the sum of occupied bed for the period selected and to be referred in the Formula Field PeriodicOccupancyRate script
+![Running Total Occupied Bed Count(images/RunningTotal_OccupiedBedCount.png)]<br><br>
+### Create a Formula Field PeriodicOccupancyRate, write code to calculate the bed occupancy rate for the peirod user selected, and insert it to the Report Footer
+<br><br>
+![Formula Field Periodic Occupancy Rate](images/FormulaField_PeriodicOccupancyRate.png)
