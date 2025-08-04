@@ -31,10 +31,10 @@ This report is grouped by the column OperationDate in the OccupancyDetailView vi
 ![Group Summary Design](images/GroupSummary_Design.png)
 Under the menu Insert, select Summary to insert the total occupied beds per date as follows
 <br><br>
-![Group Summary Bed Count](images/GroupSummary_Count.png)
+![Group Summary Bed Count](images/GroupSummary_Count.png)<br><br>
 Select Summary to insert the total bed fee per date as follows
 <br><br>
-![Group Summary Bed Fee](images/GroupSummary_Sum.png)
+![Group Summary Bed Fee](images/GroupSummary_Sum.png)<br><br>
 Create a Formula Field OccupancyRateByDate to calculate the bed occupancy rate per date and insert it to the Group Footer
 <br><br>
 ![Formula Field OccupancyRateByDate](images/FormulaField_OccupancyRateByDate.png)
