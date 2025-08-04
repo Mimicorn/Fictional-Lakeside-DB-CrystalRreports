@@ -37,15 +37,12 @@ This report is grouped by the column OperationDate in the OccupancyDetailView vi
 ![Formula Field OccupancyRateByDate](images/FormulaField_OccupancyRateByDate.png)
 ## Report Summary
 ### Report Footer Design Overview
-![Report Summary Design](images/ReportSummary_Design.png)<br><br>
+![Report Summary Design](images/ReportSummary_Design.png)<br>
 ### Create a Formula Field DateRange, write script to visualize the date range user selected and insert it to the Report Footer
-<br><br>
 ![Formula Field DateRange](images/FormulaField_DateRange.png)<br><br>
 ### Under the menu Insert, Select Summary to insert the sum of bed fee for the date period user selected to the Report Footer as follows
-<br><br>
 ![Group Summary Bed Fee](images/ReportSummary_Sum.png)<br><br>
 ### Create a RunningTotal Field RTotalOccupiedBedCount to calculate the sum of occupied bed for the period selected and to be referred in the Formula Field PeriodicOccupancyRate script
 ![Running Total Occupied Bed Count(images/RunningTotal_OccupiedBedCount.png)]<br><br>
 ### Create a Formula Field PeriodicOccupancyRate, write code to calculate the bed occupancy rate for the peirod user selected, and insert it to the Report Footer
-<br><br>
 ![Formula Field Periodic Occupancy Rate](images/FormulaField_PeriodicOccupancyRate.png)
