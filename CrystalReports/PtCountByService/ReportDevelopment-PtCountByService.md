@@ -1,7 +1,7 @@
 # Encounter Information By Patient Service Report Development
 ## Data Source 
 ### Diagnosis_Intervention_View
-The data source for this report is from <b>Diagnosis_Intervention_View</b> view in the Database <b>LakesideInpatient</b>. 
+The data source for this report is from <b>Diagnosis_Intervention_View</b> view in the Database <b>LakesideInpatient</b>. Please refer to <a href='../../'>database</a> directory for the detail of the view.
 <br><br>![Data Source](images/DatabaseExpert.png)
 ## Report Design Panel
 ![Report Design Panel](images/DesignPanel.png)
