@@ -1,7 +1,7 @@
 # Patient Count by Age Group and Residence Report Development
 ## Data Source
 ### AgeGroupView
-The data source for this report is the <b>AgeGroupView</b> view in the database <b>LakesideInpatient</b>. 
+The data source for this report is the <b>AgeGroupView</b> view in the database <b>LakesideInpatient</b>. Please refer to <a href='../../'>database</a> directory for the detail of the view. <br><br>
 ![Report Data Source](images/DatabaseExpert.png)
 ## Report Body Design
 ![Report Body Design Panel](images/DesignPanel-AgeGroup.png)
