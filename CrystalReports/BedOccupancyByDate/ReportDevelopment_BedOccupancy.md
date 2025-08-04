@@ -27,6 +27,15 @@ This report is grouped by the column OperationDate in the OccupancyDetailView vi
 <br>Check the box "Repeat Group Header On Each Page" in Group Expert Options to display group header on each page.
 <br><br>![Group Expert Options](images/GroupExpert_Options.png)
 ## Group Summary
-
-
+### Design Overview
+![Group Summary Design](images/GroupSummary_Design.png)
+Under the menu Insert, select Summary to insert the total occupied beds per date as follows
+<br><br>
+![Group Summary Bed Count](images/GroupSummary_Count.png)
+Select Summary to insert the total bed fee per date as follows
+<br><br>
+![Group Summary Bed Fee](images/GroupSummary_Sum.png)
+Create a Formula Field OccupancyRateByDate to calculate the bed occupancy rate per date and insert it to the Group Footer
+<br><br>
+![Formula Field OccupancyRateByDate](images/FormulaField_OccupancyRateByDate.png)
 ## Report Summary
