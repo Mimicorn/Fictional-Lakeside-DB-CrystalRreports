@@ -7,4 +7,3 @@ The data for this report is retrieved from the view <b>OccupancyDetailView</b> i
 ![Design Panel](images/DesignPanel.png)
 ## Field Explorer
 ![Field Explorer](images/FieldExplorer.png)
-## Formula Field RmRate
