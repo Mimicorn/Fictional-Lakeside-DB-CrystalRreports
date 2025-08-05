@@ -1,1 +1,1 @@
-## I create the fictional database LakesideInpatient to store the inpatient data of the fictional health facility Lakeside Health Centre.   
+## Please note that the LakesideInpatient database, designed to store inpatient data for the fictional Lakeside Health Centre, is entirely fictional. 
