@@ -2,7 +2,7 @@
 ## Overview
 This document provides an introduction to the database <b>LakesideInpatient</b> schema designed to manage inpatient data within Lakeside Health Centre. The schema is structured to efficiently store and relate demographic information, medical encounters, diagnoses, services, interventions, and discharge details. The design ensures data integrity and supports comprehensive reporting and analysis.
 ## Database Diagram
-![Database Diagram](../LakesideDBDiagram.png)
+![Database Diagram](LakesideDbDiagram.png)
 ## Table Organization
 <ul>
   <li><a href='Tables/Residence.png'>Residence</a></li>
